@@ -1,3 +1,6 @@
 streamlit
-langchain
-groq
+InstructorEmbedding
+chromadb
+torch
+sentence-transformers
+PyMuPDF
