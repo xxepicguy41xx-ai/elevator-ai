@@ -1,6 +1,7 @@
 streamlit
 InstructorEmbedding
 chromadb
-torch
 sentence-transformers
+torch
 PyMuPDF
+openai
