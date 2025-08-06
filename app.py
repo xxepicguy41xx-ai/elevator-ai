@@ -8,7 +8,7 @@ groq_api_key = st.secrets["groq"]["api_key"]
 # Initialize Groq LLM
 llm = ChatGroq(
     groq_api_key=groq_api_key,
-    model_name="mixtral-8x7b-32768"
+    model_name="openai/gpt-oss-20b"
 )
 
 st.title("🔧 Elevator AI Assistant")
