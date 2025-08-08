@@ -1,7 +1,0 @@
-streamlit
-InstructorEmbedding
-chromadb
-sentence-transformers
-torch
-PyMuPDF
-openai
